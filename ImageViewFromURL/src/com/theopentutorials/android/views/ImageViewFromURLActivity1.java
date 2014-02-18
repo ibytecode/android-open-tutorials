@@ -16,7 +16,7 @@ import android.widget.ImageView;
 public class ImageViewFromURLActivity1 extends Activity {
 	
 	public static final String URL = "http://theopentutorials.com/wp-content/uploads/totlogo.png";//"http://theopentutorials.com/wp-content/uploads/0/date_and_time-261x200.jpg";
-	private ImageView imageView;
+	ImageView imageView;
 	
     /** Called when the activity is first created. */
     @Override
